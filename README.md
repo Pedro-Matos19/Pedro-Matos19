@@ -16,6 +16,8 @@
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </div><br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Matos19&layout=compact)
+
 - Apaixonado por programação e com muita vontade de aprender. -
 
 ### E-mail: pedrohenriquemo2020@gmail.com
